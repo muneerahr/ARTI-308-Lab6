@@ -3,7 +3,7 @@
 ## Project Overview
 In this project, I used Linear Regression to analyze an e-commerce dataset and predict the yearly amount spent by customers.
 
-## What I did
+## project steps
 - Loaded the dataset and Explored the data
 - Visualized the data using pairplot and heatmap  
 - Applied simple feature engineering by creating a new feature (Total_Time)  
